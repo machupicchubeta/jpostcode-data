@@ -1865,9 +1865,9 @@
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "白金",
-    "town_kana": "シロカネ",
-    "street": "１丁目１７−３ＮＢＦプラチナタワー２Ｆ",
+    "town": "三田",
+    "town_kana": "ミタ",
+    "street": "１−４−２８三田国際ビル",
     "office_name": "サクサ　株式会社",
     "office_name_kana": "サクサ カブシキガイシヤ"
   },
@@ -2104,6 +2104,19 @@
     "street": "２丁目１６−２太陽生命品川ビル",
     "office_name": "椿本興業　（株）　東京本社",
     "office_name_kana": "ツバキモトコウギヨウ カブシキガイシヤ トウキヨウホンシヤ"
+  },
+  "8223": {
+    "postcode": "1088223",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "港南",
+    "town_kana": "コウナン",
+    "street": "２丁目１６番２号太陽生命品川ビル２３階",
+    "office_name": "株式会社　情報システム工学",
+    "office_name_kana": "カブシキガイシヤ ジヨウホウシステムコウガク"
   },
   "8224": {
     "postcode": "1088224",
@@ -3899,6 +3912,19 @@
     "office_name": "株式会社　くもん出版",
     "office_name_kana": "カブシキガイシヤ クモンシユツパン"
   },
+  "8618": {
+    "postcode": "1088618",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "高輪",
+    "town_kana": "タカナワ",
+    "street": "２−２１−１ＴＨＥＬＩＮＫＰＩＬＬＡＲ１ＮＯＲＴＨ",
+    "office_name": "ＫＤＤＩ　株式会社",
+    "office_name_kana": "ケイデイ-デイ-アイ カブシキガイシヤ"
+  },
   "8622": {
     "postcode": "1088622",
     "prefecture": "東京都",
@@ -3924,6 +3950,19 @@
     "street": "２−２１−１ＴＨＥＬＩＮＫＰＩＬＬＡＲ１ＮＯＲＴＨ１８階",
     "office_name": "ＫＤＤＩ健康保険組合",
     "office_name_kana": "ケイデイ-デイ-アイケンコウホケンクミアイ"
+  },
+  "8625": {
+    "postcode": "1088625",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "高輪",
+    "town_kana": "タカナワ",
+    "street": "２−２１−１ＴＨＥＬＩＮＫＰＩＬＬＡＲ１ＮＯＲＴＨ１０階",
+    "office_name": "ＫＤＤＩ　Ｓｏｎｉｃ−Ｆａｌｃｏｎ　株式会社",
+    "office_name_kana": "ケイデイ-デイ-アイ ソニツクフアルコン カブシキガイシヤ"
   },
   "8628": {
     "postcode": "1088628",
