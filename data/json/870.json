@@ -1195,19 +1195,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0149": {
-    "postcode": "8700149",
-    "prefecture": "大分県",
-    "prefecture_kana": "オオイタケン",
-    "prefecture_code": 44,
-    "city": "大分市",
-    "city_kana": "オオイタシ",
-    "town": "高城団地",
-    "town_kana": "タカジョウダンチ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0150": {
     "postcode": "8700150",
     "prefecture": "大分県",
@@ -1438,6 +1425,19 @@
     "city_kana": "オオイタシ",
     "town": "明野ハイツ",
     "town_kana": "アケノハイツ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0169": {
+    "postcode": "8700169",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "明野高城",
+    "town_kana": "アケノタカジョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
