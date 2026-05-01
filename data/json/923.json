@@ -4042,7 +4042,7 @@
     "city": "能美郡川北町",
     "city_kana": "ノミグンカワキタマチ",
     "town": "下田子島",
-    "town_kana": "シモタゴジマ",
+    "town_kana": "シモダゴジマ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -4330,8 +4330,8 @@
     "town": "問屋町",
     "town_kana": "トンヤマチ",
     "street": "２５",
-    "office_name": "三島石油　株式会社",
-    "office_name_kana": "ミシマセキユ カブシキガイシヤ"
+    "office_name": "エムタス　株式会社",
+    "office_name_kana": "エムタス カブシキガイシヤ"
   },
   "8528": {
     "postcode": "9238528",

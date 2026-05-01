@@ -4884,8 +4884,8 @@
     "town": "丸の内",
     "town_kana": "マルノウチ",
     "street": "１−９−１",
-    "office_name": "大和証券投資信託委託　株式会社",
-    "office_name_kana": "ダイワシヨウケントウシシンタクイタク カブシキガイシヤ"
+    "office_name": "大和アセットマネジメント　株式会社",
+    "office_name_kana": "ダイワアセツトマネジメント カブシキガイシヤ"
   },
   "6754": {
     "postcode": "1006754",
@@ -6651,7 +6651,7 @@
     "city_kana": "チヨダク",
     "town": "大手町",
     "town_kana": "オオテマチ",
-    "street": "１丁目５−１大手町ファーストスクエアウエストタワー",
+    "street": "二丁目３番２号大手町プレイスイーストタワー５階",
     "office_name": "ＮＳユナイテッド海運　株式会社",
     "office_name_kana": "エヌエスユナイテツドカイウン カブシキガイシヤ"
   },
@@ -9069,19 +9069,6 @@
     "street": "１丁目３−１",
     "office_name": "中小企業庁",
     "office_name_kana": "チユウシヨウキギヨウチヨウ"
-  },
-  "8913": {
-    "postcode": "1008913",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "霞が関",
-    "town_kana": "カスミガセキ",
-    "street": "１丁目２−３",
-    "office_name": "人事院　事務総局",
-    "office_name_kana": "ジンジイン ジムソウキヨク"
   },
   "8914": {
     "postcode": "1008914",
