@@ -1761,9 +1761,9 @@
     "prefecture_code": 34,
     "city": "広島市中区",
     "city_kana": "ヒロシマシナカク",
-    "town": "国泰寺町",
-    "town_kana": "コクタイジマチ",
-    "street": "２丁目２−２８",
+    "town": "紙屋町",
+    "town_kana": "カミヤチョウ",
+    "street": "１丁目２−２７大同生命広島ビル１１階",
     "office_name": "西松建設　株式会社　中国支店",
     "office_name_kana": "ニシマツケンセツ カブシキガイシヤ チユウゴクシテン"
   },
@@ -1826,9 +1826,9 @@
     "prefecture_code": 34,
     "city": "広島市中区",
     "city_kana": "ヒロシマシナカク",
-    "town": "宝町",
-    "town_kana": "タカラマチ",
-    "street": "１−１",
+    "town": "鶴見町",
+    "town_kana": "ツルミチョウ",
+    "street": "４−２０",
     "office_name": "協同組合　広県繊",
     "office_name_kana": "キヨウドウクミアイ ヒロケンセン"
   },
@@ -2414,8 +2414,8 @@
     "town": "東白島町",
     "town_kana": "ヒガシハクシマチョウ",
     "street": "１９番８号",
-    "office_name": "広島監査室",
-    "office_name_kana": "ヒロシマカンサシツ"
+    "office_name": "広島検査・コンプライアンス統括支援室",
+    "office_name_kana": "ヒロシマケンサ・コンプライアンストウカツシエンシツ"
   },
   "8797": [
     {
